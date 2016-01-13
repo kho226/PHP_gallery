@@ -21,7 +21,7 @@ $row_x = 12 / $col_md_x; ?>
     <title><?php echo $page_title; ?></title>
     <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="lightbox/css/lightbox.css" rel="stylesheet" />
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="style.css">
  
     <script src="lightbox/js/jquery-1.11.0.min.js"></script>
     <script src="bootstrap/js/bootstrap.min.js"></script>
