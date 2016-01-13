@@ -2,4 +2,5 @@
 http://getbootstrap.com/getting-started/
 http://lokeshdhakar.com/projects/lightbox2/
 2.) Create an img folder in the same directory where you will place your images
-3.) You will need a web server to view php files. Check out WAMP for Windows and MAMP for Mac if you are new to this stuff
+3.) In order for the thumbnails to work, create a thumbs folder within img folder where you will place copies of your images
+4.) You will need a web server to view php files. Check out WAMP for Windows and MAMP for Mac if you are new to this stuff
